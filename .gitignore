@@ -1,0 +1,11 @@
+.kilo/
+venv/
+/venv
+.DS_STORE
+
+.env
+.env.*
+
+__pycache__/
+
+README_backup.md
